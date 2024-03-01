@@ -61,4 +61,4 @@
     - The sender's email address and password need to be filled with actual values.
     - The file path for the CSV attachment should be accurate.
     - The HTML email body can be customized further as needed.
-  - Ensure that less secure apps access is enabled in the sender's Gmail settings if Gmail is being used. Alternatively, you can use app passwords or two-factor authentication for secure access.
+    - Ensure that less secure apps access is enabled in the sender's Gmail settings if Gmail is being used. Alternatively, you can use app passwords or two-factor authentication for secure access.
